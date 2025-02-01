@@ -1,0 +1,47 @@
+# Общие исключения  
+###################  
+*~  
+*.swp  
+*.bak  
+*.log  
+*.tmp  
+._*  
+*.pyc  
+
+# Системные файлы  
+###################  
+.DS_Store  
+Thumbs.db  
+ehthumbs.db  
+
+# Папки  
+########  
+node_modules  
+venv  
+env  
+__pycache__  
+
+# Файлы IDE  
+###########  
+.idea  
+*.iml  
+*.ipr  
+*.iws  
+.project  
+.classpath  
+
+# Скомпилированные файлы  
+#######################  
+*.class  
+*.pyc  
+*.exe  
+*.dll  
+*.o  
+*.so  
+*.out  
+*.war  
+*.ear  
+
+# Файлы .env  
+#############  
+.env
